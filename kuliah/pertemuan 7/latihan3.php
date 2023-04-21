@@ -16,6 +16,9 @@ $pemain = query("SELECT * FROM pemain");
 <body>
   <h3>Daftar Pemain Bayern Munchen</h3>
 
+  <a href="tambah.php">Tambah Daftar Pemain</a>
+  <br><br>
+
   <table border="1" cellpadding="10" cellspacing="0">
     <tr>
         <th>#</th>
